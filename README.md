@@ -1,7 +1,7 @@
 ```markdown
 # cloudTOWN - Cloud Red Team Offensive Warfare Network
 
-![Screenshot_2025-11-13_14_22_31](https://github.com/user-attachments/assets/5ad6752c-56de-46cf-8e1f-8414a0f5b7c0)
+![Screenshot_2025-11-13_14_22_31](https://github.com/user-attachments/assets/8722bfb1-2024-47ae-8373-63e561437e3d)
 
 ## What is cloudTOWN?
 
