@@ -1,19 +1,7 @@
 ```markdown
 # cloudTOWN - Cloud Red Team Offensive Warfare Network
 
-```
-    ╔═══════════════════════════════════════════════════════════╗
-    ║                                                           ║
-    ║              ██████╗██╗      ██████╗ ██╗   ██╗██████╗    ║
-    ║             ██╔════╝██║     ██╔═══██╗██║   ██║██╔══██╗   ║
-    ║             ██║     ██║     ██║   ██║██║   ██║██║  ██║   ║
-    ║             ██║     ██║     ██║   ██║██║   ██║██║  ██║   ║
-    ║             ╚██████╗███████╗╚██████╔╝╚██████╔╝██████╔╝   ║
-    ║              ╚═════╝╚══════╝ ╚═════╝  ╚═════╝ ╚═════╝    ║
-    ║                                                           ║
-    ║               TOWN - Tactical Offensive Warfare Net      ║
-    ║                                                           ║
-    ╚═══════════════════════════════════════════════════════════╝
+![Screenshot_2025-11-13_14_22_31](https://github.com/user-attachments/assets/5ad6752c-56de-46cf-8e1f-8414a0f5b7c0)
 
 ## What is cloudTOWN?
 
@@ -129,46 +117,11 @@ chmod +x main.py
 # Launch
 python3 main.py
 ```
-
-###  Option 2: Manual Installation
-
-```bash
-# Clone repository
-git clone https://github.com/ekomsSavior/cloudTOWN.git
-cd cloudTOWN
-
-# Create directory structure (if needed)
-mkdir -p core modules/discovery modules/exploitation modules/post_exploit output
-
-# Install Python packages
-pip3 install questionary rich dnspython requests boto3 azure-storage-blob azure-identity azure-mgmt-storage google-cloud-storage python-dateutil colorama
-
-# Verify installation
-python3 -c "import questionary, rich, boto3; print('[+] Dependencies OK')"
-
-# Run framework
-python3 main.py
-```
-
-###  Troubleshooting Installation
-
-```bash
-# If you get permission errors
-pip3 install --user -r requirements.txt
-
-# If dependencies fail
-sudo apt update
-sudo apt install python3-pip python3-dev -y
-pip3 install --upgrade pip
-pip3 install -r requirements.txt
-
-# Verify Python version
-python3 --version  # Should be 3.8+
-```
-
 ---
 
 ## Usage Guide
+
+![Screenshot_2025-11-13_14_22_46](https://github.com/user-attachments/assets/01ced779-e903-40f9-87cb-ece652bc4e2e)
 
 ###  Basic Workflow
 
