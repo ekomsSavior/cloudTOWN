@@ -683,29 +683,29 @@ nslookup example.com 8.8.8.8
 ```
 ╔══════════════════════════════════════════════════════════════════════════╗
 ║                                                                          ║
-║  THIS TOOL PERFORMS REAL ATTACKS ON CLOUD INFRASTRUCTURE                ║
+║  THIS TOOL PERFORMS REAL ATTACKS ON CLOUD INFRASTRUCTURE                 ║
 ║                                                                          ║
 ║  The exploitation modules WILL:                                          ║
-║  • Create access keys in AWS IAM                                        ║
-║  • Modify IAM policies and permissions                                  ║
-║  • Access and enumerate cloud storage                                   ║
-║  • Make changes to cloud resources                                      ║
+║  • Create access keys in AWS IAM                                         ║
+║  • Modify IAM policies and permissions                                   ║
+║  • Access and enumerate cloud storage                                    ║
+║  • Make changes to cloud resources                                       ║
 ║                                                                          ║
-║  UNAUTHORIZED USE IS A FEDERAL CRIME                                    ║
+║  UNAUTHORIZED USE IS A FEDERAL CRIME                                     ║
 ║                                                                          ║
-║  You are responsible for:                                               ║
-║  ✓ Obtaining proper authorization                                       ║
-║  ✓ Following all applicable laws                                        ║
-║  ✓ Any damage caused by misuse                                          ║
-║  ✓ Cleaning up test resources after engagement                          ║
+║  You are responsible for:                                                ║
+║  ✓ Obtaining proper authorization                                        ║
+║  ✓ Following all applicable laws                                         ║
+║  ✓ Any damage caused by misuse                                           ║
+║  ✓ Cleaning up test resources after engagement                           ║
 ║                                                                          ║
-║  The authors and contributors:                                          ║
-║  ✗ Are NOT responsible for misuse                                       ║
-║  ✗ Do NOT condone illegal activity                                      ║
-║  ✗ Do NOT provide legal advice                                          ║
-║  ✗ Assume NO liability for your actions                                 ║
+║  The author:                                                             ║
+║  ✗ is NOT responsible for misuse                                         ║
+║  ✗ Does NOT condone illegal activity                                     ║
+║  ✗ Does NOT provide legal advice                                         ║
+║  ✗ Assumes NO liability for your actions                                 ║
 ║                                                                          ║
-║  USE AT YOUR OWN RISK                                                   ║
+║  USE AT YOUR OWN RISK                                                    ║
 ║                                                                          ║
 ╚══════════════════════════════════════════════════════════════════════════╝
 ```
