@@ -1,7 +1,9 @@
 ```markdown
 # cloudTOWN - Cloud Red Team Offensive Warfare Network
+## ✩₊˚.⋆☾⋆⁺₊✧by ek0ms savi0r✩₊˚.⋆☾⋆⁺₊✧
+```
+![Screenshot_2025-11-13_14_22_31](https://github.com/user-attachments/assets/80b1dc5a-942b-478c-954d-592e3ef1336d)
 
-![Screenshot_2025-11-13_14_22_31](https://github.com/user-attachments/assets/8722bfb1-2024-47ae-8373-63e561437e3d)
 
 ## What is cloudTOWN?
 
@@ -59,34 +61,6 @@
 - Modifies inline policies for privilege gain
 - **REAL IAM modifications - WILL CHANGE your AWS environment**
 
----
-##  CRITICAL LEGAL DISCLAIMER ️
-
-```
-╔══════════════════════════════════════════════════════════════════════════╗
-║                                                                          ║
-║     THIS TOOL IS FOR AUTHORIZED SECURITY TESTING ONLY                    ║
-║                                                                          ║
-║  By downloading, installing, or using cloudTOWN, you agree to:           ║
-║                                                                          ║
-║  1. Only use this tool on systems you OWN or have WRITTEN                ║
-║     AUTHORIZATION to test                                                ║
-║                                                                          ║
-║  2. Understand that UNAUTHORIZED access to computer systems is           ║
-║     ILLEGAL under laws including but not limited to:                     ║
-║     • Computer Fraud and Abuse Act (CFAA) - USA                          ║
-║     • Computer Misuse Act - UK                                           ║
-║     • European Cybercrime Convention                                     ║
-║     • Local and international computer crime laws                        ║
-║                                                                          ║
-║  3. Accept FULL RESPONSIBILITY for your actions                          ║
-║                                                                          ║
-║  4. The authors and contributors assume NO LIABILITY for misuse          ║
-║                                                                          ║
-║  VIOLATION OF THESE TERMS MAY RESULT IN CRIMINAL PROSECUTION             ║
-║                                                                          ║
-╚══════════════════════════════════════════════════════════════════════════╝
-```
 
 **UNAUTHORIZED ACCESS TO COMPUTER SYSTEMS IS A CRIME. ALWAYS OBTAIN PROPER AUTHORIZATION BEFORE TESTING.**
 
@@ -101,7 +75,7 @@
 - **Python**: 3.8 or higher
 - **Permissions**: sudo access for package installation
 
-###  Option 1: Quick Install (Recommended)
+###  Quick Install 
 
 ```bash
 # Clone the repository
@@ -129,7 +103,7 @@ python3 main.py
 1. Launch Framework → 2. Select Module → 3. Provide Credentials → 4. Scan → 5. Exploit → 6. Export Report
 ```
 
-### 🏁 Starting the Framework
+###  Starting the Framework
 
 ```bash
 cd cloudTOWN
@@ -663,5 +637,6 @@ nslookup example.com 8.8.8.8
 ╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
----
+![Screenshot 2025-10-14 111008](https://github.com/user-attachments/assets/f23bfcb8-a345-4014-8c60-4f102015d38d)
+
 
