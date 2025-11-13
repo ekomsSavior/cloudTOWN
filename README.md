@@ -14,49 +14,6 @@
     ║               TOWN - Tactical Offensive Warfare Net      ║
     ║                                                           ║
     ╚═══════════════════════════════════════════════════════════╝
-```
-
-<p align="center">
-  <img src="https://img.shields.io/badge/version-2.0-red.svg" />
-  <img src="https://img.shields.io/badge/platform-linux-lightgrey.svg" />
-  <img src="https://img.shields.io/badge/python-3.8+-blue.svg" />
-  <img src="https://img.shields.io/badge/license-MIT-green.svg" />
-  <img src="https://img.shields.io/badge/status-OPERATIONAL-brightgreen.svg" />
-</p>
-
----
-
-##  CRITICAL LEGAL DISCLAIMER ️
-
-```
-╔══════════════════════════════════════════════════════════════════════════╗
-║                                                                          ║
-║     THIS TOOL IS FOR AUTHORIZED SECURITY TESTING ONLY                    ║
-║                                                                          ║
-║  By downloading, installing, or using cloudTOWN, you agree to:           ║
-║                                                                          ║
-║  1. Only use this tool on systems you OWN or have WRITTEN                ║
-║     AUTHORIZATION to test                                                ║
-║                                                                          ║
-║  2. Understand that UNAUTHORIZED access to computer systems is           ║
-║     ILLEGAL under laws including but not limited to:                     ║
-║     • Computer Fraud and Abuse Act (CFAA) - USA                          ║
-║     • Computer Misuse Act - UK                                           ║
-║     • European Cybercrime Convention                                     ║
-║     • Local and international computer crime laws                        ║
-║                                                                          ║
-║  3. Accept FULL RESPONSIBILITY for your actions                          ║
-║                                                                          ║
-║  4. The authors and contributors assume NO LIABILITY for misuse          ║
-║                                                                          ║
-║  VIOLATION OF THESE TERMS MAY RESULT IN CRIMINAL PROSECUTION             ║
-║                                                                          ║
-╚══════════════════════════════════════════════════════════════════════════╝
-```
-
-**UNAUTHORIZED ACCESS TO COMPUTER SYSTEMS IS A CRIME. ALWAYS OBTAIN PROPER AUTHORIZATION BEFORE TESTING.**
-
----
 
 ## What is cloudTOWN?
 
@@ -72,10 +29,6 @@
 - **Professional Reporting** - Export to JSON, HTML, or TXT for client deliverables
 
 ---
-
-##  What It Does
-
-cloudTOWN performs **REAL** offensive operations against cloud infrastructure:
 
 ###  **DISCOVERY MODULES** (Reconnaissance Phase)
 
@@ -119,6 +72,38 @@ cloudTOWN performs **REAL** offensive operations against cloud infrastructure:
 - **REAL IAM modifications - WILL CHANGE your AWS environment**
 
 ---
+##  CRITICAL LEGAL DISCLAIMER ️
+
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║                                                                          ║
+║     THIS TOOL IS FOR AUTHORIZED SECURITY TESTING ONLY                    ║
+║                                                                          ║
+║  By downloading, installing, or using cloudTOWN, you agree to:           ║
+║                                                                          ║
+║  1. Only use this tool on systems you OWN or have WRITTEN                ║
+║     AUTHORIZATION to test                                                ║
+║                                                                          ║
+║  2. Understand that UNAUTHORIZED access to computer systems is           ║
+║     ILLEGAL under laws including but not limited to:                     ║
+║     • Computer Fraud and Abuse Act (CFAA) - USA                          ║
+║     • Computer Misuse Act - UK                                           ║
+║     • European Cybercrime Convention                                     ║
+║     • Local and international computer crime laws                        ║
+║                                                                          ║
+║  3. Accept FULL RESPONSIBILITY for your actions                          ║
+║                                                                          ║
+║  4. The authors and contributors assume NO LIABILITY for misuse          ║
+║                                                                          ║
+║  VIOLATION OF THESE TERMS MAY RESULT IN CRIMINAL PROSECUTION             ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
+
+**UNAUTHORIZED ACCESS TO COMPUTER SYSTEMS IS A CRIME. ALWAYS OBTAIN PROPER AUTHORIZATION BEFORE TESTING.**
+
+---
+
 
 ##  Installation
 
