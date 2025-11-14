@@ -1,4 +1,4 @@
-# cloudTOWN - Cloud Red Team Offensive Network
+# cloudTOWN - Cloud Tactical Offensive Warfare Network
 ## ✩₊˚.⋆☾⋆⁺₊✧by ek0ms savi0r✩₊˚.⋆☾⋆⁺₊✧
 
 ![Screenshot_2025-11-13_14_22_31](https://github.com/user-attachments/assets/80b1dc5a-942b-478c-954d-592e3ef1336d)
