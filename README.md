@@ -6,7 +6,7 @@
 
 ## What is cloudTOWN?
 
-**cloudTOWN** (Cloud Tactical Offensive Warfare Network) is a bleeding-edge, interactive red team framework designed for authorized cloud security assessments. Built by offensive security professionals, for offensive security professionals.
+**cloudTOWN** (Cloud Tactical Offensive Warfare Network) is a bleeding-edge, interactive framework designed for authorized cloud security assessments. 
 
 ### Core Capabilities
 
