@@ -255,6 +255,7 @@ Scan mode: All Storage Accounts
 python3 main.py
 # Select: 2. Select and Run Module
 # Choose: SaaS Subdomain Takeover Scanner
+# use provided subdomains-premium.txt for scans
 ```
 
 #### Step 2: Configure Scan
